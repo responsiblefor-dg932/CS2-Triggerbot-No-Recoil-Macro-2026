@@ -1,0 +1,7 @@
+numpy
+requests
+pynput
+pygetwindow
+pillow
+click
+colorama
